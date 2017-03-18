@@ -2,10 +2,12 @@
 
 Tiny library which implements basic work with PID File.
 
-`import "github.com/awskii/pidfile"`
+```go
+import "github.com/awskii/pidfile"
+```
 
 As easy as:
-```
+```go
 package main
 
 import "github.com/awskii/pidfile"
